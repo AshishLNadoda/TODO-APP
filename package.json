@@ -18,7 +18,7 @@
 
 
 
-  "homepage": "http://ashishlnadoda.github.io/TODO-APP",
+  
  
 
 
@@ -118,8 +118,7 @@
  
 
 
-    "predeploy": "npm run build",
-    "deploy": "TODO -d build",
+  
    
 
 
